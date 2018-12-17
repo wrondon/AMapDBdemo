@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A Map DB demo</string>
+    <string name="title_home">Fixed Marker</string>
+    <string name="title_dashboard">From Cloud-DB</string>
+    <string name="title_notifications">Clear all</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
